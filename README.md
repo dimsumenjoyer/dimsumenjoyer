@@ -1,6 +1,8 @@
-## Hello, world!
+## About Me
 
-My name is Victor Van (Chinese name: 文及信，Vietnamese name: Văn Cấp Tín）。As of spring 2025, I am currently finishing up an associate's degree at Northern Essex Community College. Starting fall 2025, I will attend Columbia University for a double major in Mathematics and Physics, and a minor in East Asian Studies.
+My name is Victor Van (Chinese name: 文及信，Vietnamese name: Văn Cấp Tín）。I am an American-born and raised Sino-Vietnamese student currently finishing up an associate's degree at Northern Essex Community College. Starting fall 2025, I will attend Columbia University for a double major in Mathematics and Physics, and a minor in East Asian Studies. This summer, I will be apart of a research project at Merrimack College learning about differential geometry and tensor calculus with applications to general relativity. With this knowledge, we will either work on a project on gravitional lensing or Einstein manifolds. I'm looking towards learning proof-based mathematics.
+
+Transfering universities will be quite a transition for me. I am a social person, so feel free to say "hello" to me in-person. I am a FC Barcelona fan. I'd like to learn how to cook and I'd like to have a gym-partner. Recently, I've become more interested in anime - I've been watching Solo Leveling. I also have long COVID, so if you know any interesting research about this topic let me know.
 <!--
 **dimsumenjoyer/dimsumenjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
