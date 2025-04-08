@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello, world!
 
+My name is Victor Van (Chinese name: 文及信，Vietnamese name: Văn Cấp Tín）。As of spring 2025, I am currently finishing up an associate's degree at Northern Essex Community College. Starting fall 2025, I will attend Columbia University for a double major in Mathematics and Physics, and a minor in East Asian Studies.
 <!--
 **dimsumenjoyer/dimsumenjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
